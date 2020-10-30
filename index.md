@@ -320,7 +320,5 @@ https://www.atomiton.com/#/products/atomiton-stack
 [25] Nawar Yossef (2017) Git commit best practices. Recuperado de: https://medium.com/@nawarpianist/git-commit-best-practices-dab8d722de99
   </div>
 
-  </div>
 
-</html>
 

@@ -146,7 +146,7 @@ Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basa
 
 <div id='id4' />
 
-### 3.1 Comandos básicos y recursos de apoyo en línea📋
+<h3> 3.1 Comandos básicos y recursos de apoyo en línea📋 </h3>
 
 Git es una plataforma que permite mejorar la eficiencia en la construcción de un código en conjunto con más colaboradores.
 
@@ -216,7 +216,7 @@ Git es una plataforma que permite mejorar la eficiencia en la construcción de u
 
 <div id='id5' />
 
-### 3.2 Síntesis de buenas prácticas en la industria🧰 
+<h3> 3.2 Síntesis de buenas prácticas en la industria🧰 </h3>
 
 GitHub es una página de código, donde el código puede ser editado por varias personas a la misma vez, y esto ha generado un gran impacto en la dinámica de cómo se trabajan algunos proyectos grandes de código que se hacen en equipo en empresas; un ejemplo de una empresa que hace esto es DeepSource. DeepSource es una empresa que se dedica a crear sistemas que resuelven bugs de códigos. Dicen en su página que la herramienta principal que utilizan es GitHub, y que este se ha convertido en el medio que la mayoría de los empleados trabaja, ya que es un sistema que es confiable, y más de una persona puede editar código.
 
@@ -226,7 +226,7 @@ GitHub no está diseñada solamente para ser trabajada por empresas, sino que ta
 
 <div id='id6' />
 
-### 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨
+<h3> 3.3 Video, párrafo explicativo, y archivos APK y AIA🔨 </h3>
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/DDv-Pgs7l5w?autohide=0"  

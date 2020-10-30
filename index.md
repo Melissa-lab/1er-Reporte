@@ -113,7 +113,7 @@ Al fabricar autos que incorporen esta tecnología que los ayude a solucionar tar
 ================================================================
 <div id='id2' />
 
-## Sección 2: Modelo IoT seleccionado💡
+<h2> Sección 2: Modelo IoT seleccionado💡 </h2>
 
 --------------------------
 
@@ -142,7 +142,7 @@ Al ser una plataforma SaaS, es decir, con capacidad de generar aplicaciones basa
 ================================================================
 <div id='id3' />
 
-## Sección 3: Guía rápida introductoria Github💻
+<h2> Sección 3: Guía rápida introductoria Github💻 </h2>
 
 <div id='id4' />
 
@@ -267,7 +267,7 @@ Por ello, el hacer uso de la aplicación te permite reevaluar tu consumo, con el
 <div id='id7' />
 
 ================================================================
-## Sección 4: Referencias consultadas📥
+<h2> Sección 4: Referencias consultadas📥 </h2>
 
 [1] Softek. (s.f.) Company Overview. Recuperado el 28 de Octubre 2020 de: https://www.softtek.com/about/company-overview
 

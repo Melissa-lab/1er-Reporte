@@ -1,4 +1,4 @@
-<html>
+
 <h1> Creación de una Aplicación - Iot 📱 </h1>
 
 **Índice**
